@@ -22,12 +22,12 @@
 
 Left to right:
 
-Huzefa Bin Aqeel 
+[Huzefa Bin Aqeel](https://www.facebook.com/huzaifa.ahmed.779) 
 
-M Abeer Khan 
+[M Abeer Khan](https://www.facebook.com/abeer.khan.583671)
 
-M Raffey Naeem 
+[M Raffey Naeem](https://www.facebook.com/profile.php?id=100007605584571)
 
-Arhum Ahmed 
+[Arhum Ahmed](https://www.facebook.com/profile.php?id=100009033795695)
 
-Osama Mahfooz 
+[Osama Mahfooz](https://www.facebook.com/osamasheikh.kashmiri) 
