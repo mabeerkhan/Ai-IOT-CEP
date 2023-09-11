@@ -22,12 +22,12 @@
 
 Left to right:
 
-Huzefa Bin Aqeel (worked on Arduino Code)
+Huzefa Bin Aqeel 
 
-M Abeer Khan (Worked on fabrication of IOT Project & Poster)
+M Abeer Khan 
 
-M Raffey Naeem (Worked on CO2 gas emission Code)
+M Raffey Naeem 
 
-Arhum Ahmed (Worked on C02 emission code & Poster Analytics)
+Arhum Ahmed 
 
-Osama Mahfooz (Worked on IOT Devices)
+Osama Mahfooz 
