@@ -26,7 +26,7 @@ Left to right:
 
 [M Abeer Khan](https://www.facebook.com/abeer.khan.583671)
 
-[M Raffey Naeem](https://www.facebook.com/profile.php?id=100007605584571)
+[M Rafay Naeem](https://www.facebook.com/profile.php?id=100007605584571)
 
 [Arhum Ahmed](https://www.facebook.com/profile.php?id=100009033795695)
 
