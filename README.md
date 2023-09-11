@@ -21,8 +21,13 @@
 ![1674846975932](https://github.com/mabeerkhan/Ai-IoT-CEP/assets/129393051/34c38bf2-5305-40d6-b563-9b1c0903c02d)
 
 Left to right:
+
 Huzefa Bin Aqeel (worked on Arduino Code)
+
 M Abeer Khan (Worked on fabrication of IOT Project & Poster)
+
 M Raffey Naeem (Worked on CO2 gas emission Code)
-Arhum Ahmed (Worked on C02 emission code & Poster Analytics) 
+
+Arhum Ahmed (Worked on C02 emission code & Poster Analytics)
+
 Osama Mahfooz (Worked on IOT Devices)
